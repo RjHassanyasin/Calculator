@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+input{
+    box-shadow: 2px 2px 2px 3px black;
+
+}
+button{
+    box-shadow: 3px 2px 3px 3px black;
+}
+button:hover{
+    background: red;
+    color: white;
+    transition-duration: 0.4s;
+}
+.aa:hover{
+    color:white;
+    background-color: red;
+}
